@@ -1,12 +1,3 @@
-# MonoRCNN
-MonoRCNN is a monocular 3D object detection method for autonomous driving, published at ICCV 2021 and WACV 2023. This project is an implementation of MonoRCNN.
-
-## Related Link
-* [Video demo (KITTI)](https://www.youtube.com/watch?v=46lToJSagcg)
-* [Paper (ICCV 2021)](https://arxiv.org/abs/2104.03775)
-* [Paper (WACV 2023)](https://openaccess.thecvf.com/content/WACV2023/html/Shi_Multivariate_Probabilistic_Monocular_3D_Object_Detection_WACV_2023_paper.html)
-* [KITTI benchmark (ICCV 2021)](http://www.cvlibs.net/datasets/kitti/eval_object_detail.php?&result=06e0aacbeb8de57a09d2a3557907064aa501048f)
-* [KITTI benchmark (WACV 2023)](https://www.cvlibs.net/datasets/kitti/eval_object_detail.php?&result=5bbb320aee42eee314697370b8183217d61e8141)
 
 ## Visualization
 * KITTI
@@ -61,27 +52,9 @@ cd projects/MonoRCNN
 ## Citation
 If you find this project useful in your research, please cite:
 
-```
-@inproceedings{MonoRCNN_ICCV21,
-    title = {Geometry-based Distance Decomposition for Monocular 3D Object Detection},
-    author = {Xuepeng Shi and Qi Ye and 
-              Xiaozhi Chen and Chuangrong Chen and 
-              Zhixiang Chen and Tae-Kyun Kim},
-    booktitle = {ICCV},
-    year = {2021},
-}
-```
-```
-@inproceedings{MonoRCNN_WACV23,
-    title = {Multivariate Probabilistic Monocular 3D Object Detection},
-    author = {Xuepeng Shi and Zhixiang Chen and Tae-Kyun Kim},
-    booktitle = {WACV},
-    year = {2023},
-}
-```
 
 ## Contact
-x.shi19@imperial.ac.uk
+davidhajel.ai.9156@gmail.com
 
 ## Acknowledgement
 * [Detectron2](https://github.com/facebookresearch/detectron2)
